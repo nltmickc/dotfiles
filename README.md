@@ -99,7 +99,7 @@ Why? Because I often completely break this repo while updating. Which means that
 1. Open a terminal/shell and do this:
 
 ```sh
-export github_user=YOUR_GITHUB_USER_NAME
+export github_user=nltmickc
 
 bash -c "$(curl -fsSL https://raw.github.com/$github_user/dotfiles/master/bin/dotfiles)" && source ~/.bashrc
 ```
